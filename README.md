@@ -1,3 +1,8 @@
 # Problem Solving
 
-This is a repository where I store all my codes for practicing problem solving.
+My practice solutions, mostly in Python with some C++.
+
+- **LeetCode:** about 70 problems, including the LeetCode 75 and study-plan sets
+- **HackerRank:** Python track
+- **beecrowd:** beginner set
+- Fast-I/O notes and other practice problems
